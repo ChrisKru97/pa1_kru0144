@@ -1,0 +1,10 @@
+[package]
+name = "game_of_life_rust"
+version = "0.1.0"
+authors = ["Christian Krutsche <christian.krutsche@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+term_size = "0.3.2"
+rand = "0.7.3"
+crossbeam = "0.8"
